@@ -1,0 +1,13 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+venv
+.DS_Store
+*.oac
+*.inp
+*.out
+*.exe
+!*.cpp
+!*.c
+!*.py
